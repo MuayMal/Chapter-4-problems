@@ -12,10 +12,6 @@ namespace TableofSquare
             int square;
             for (int i = 1; i <= 20; i++)
             {
-
-                
-
-
                 square = i * i;
 
                 Console.WriteLine("The number: {0} is squared into: {1}",i,square);

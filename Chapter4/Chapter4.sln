@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "ConsoleAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableofSquare", "TableofSquare\TableofSquare.csproj", "{1B33AF4C-323E-46DA-9C5F-9773741B0DC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum50", "Sum50\Sum50.csproj", "{096D9642-64F1-49CF-9F24-AEE3C753D9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect", "Perfect\Perfect.csproj", "{858B3C43-A151-4DDC-A089-EADB31C12FD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +41,14 @@ Global
 		{1B33AF4C-323E-46DA-9C5F-9773741B0DC5}.Debug|x86.Build.0 = Debug|x86
 		{1B33AF4C-323E-46DA-9C5F-9773741B0DC5}.Release|x86.ActiveCfg = Release|x86
 		{1B33AF4C-323E-46DA-9C5F-9773741B0DC5}.Release|x86.Build.0 = Release|x86
+		{096D9642-64F1-49CF-9F24-AEE3C753D9B9}.Debug|x86.ActiveCfg = Debug|x86
+		{096D9642-64F1-49CF-9F24-AEE3C753D9B9}.Debug|x86.Build.0 = Debug|x86
+		{096D9642-64F1-49CF-9F24-AEE3C753D9B9}.Release|x86.ActiveCfg = Release|x86
+		{096D9642-64F1-49CF-9F24-AEE3C753D9B9}.Release|x86.Build.0 = Release|x86
+		{858B3C43-A151-4DDC-A089-EADB31C12FD3}.Debug|x86.ActiveCfg = Debug|x86
+		{858B3C43-A151-4DDC-A089-EADB31C12FD3}.Debug|x86.Build.0 = Debug|x86
+		{858B3C43-A151-4DDC-A089-EADB31C12FD3}.Release|x86.ActiveCfg = Release|x86
+		{858B3C43-A151-4DDC-A089-EADB31C12FD3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
